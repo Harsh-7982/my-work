@@ -1,0 +1,107 @@
+.header {
+    background-color: #016CC7;
+    width: 100%;
+    height: 600px;
+}
+
+.header img {
+    width: 200px;
+    padding: 60px 100px;
+}
+.header h1 {
+    color: #fff;
+    font-size: 36px;
+    font-family: dosis,sans-serif;
+    padding: 0px 100px;
+    margin-top: -30px;
+    text-align: left;
+}
+.header h2 {
+    color: #6AA9DE;
+    font-size: 18px;
+    padding: 0px 100px;
+}
+
+.header button {
+    background-color: #DD5138;
+    padding: 15px 50px;
+    margin: 80px 100px;
+    color: #fff;
+    font-size: 16px;
+    border-style: none;
+}
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+    font-family: dosis;
+}
+
+.section_first img{
+    width: 50px;
+}
+
+.ticket_section {
+    background-color: #FCD93B;
+    height: 400px;
+}
+
+.left_side {
+    width: 50%;
+    float: left;
+}
+
+.left_side h1{
+    float: right;
+}
+
+.left_side h2 {
+    float: right;
+}
+
+.left_side p {
+    float: right;
+}
+
+.left_side button {
+    float: right;
+    background-color: #DD5138;
+    color: #fff;
+    border-style: none;
+    padding: 15px 50px;
+    font-size: 16px;
+}
+
+.rigth_side {
+    width: 50%;
+    float: right;
+}
+
+.right_side h1{
+    float: left;
+}
+
+.right_side h2 {
+    float: left;
+}
+
+.right_side p {
+    float: left;
+}
+
+.right_side button {
+    float: left;
+    background-color: #DD5138;
+    color: #fff;
+    border-style: none;
+    padding: 15px 50px;
+    font-size: 16px;
+}
+
+.avatar img:hover {
+    content: url("../image/logo.png");
+}
+
+.section _first img:hover {
+    content: url("../image/logo.png");
+}
